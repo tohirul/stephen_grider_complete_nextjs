@@ -1,5 +1,7 @@
 # Global
 .env
+.env.local
+
 .vscode/
 .next/
 .vercel/
